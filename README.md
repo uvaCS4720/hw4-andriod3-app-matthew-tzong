@@ -3,3 +3,8 @@
 # **Name: Matthew Tzong**
 
 # **Computing ID: rke5zn**
+
+## References:
+Tool: GitHub Copilot
+Date: Spring 2026
+Purpose: Aid in generating UI styling/design - code was reviewed and understood.
